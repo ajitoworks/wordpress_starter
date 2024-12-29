@@ -1,0 +1,8 @@
+.DS_store
+src/wp-admin/*
+src/wp-content/*
+src/wp-includes/*
+src/license.txt
+src/readme.html
+src/.htaccess
+src/*.php
